@@ -1,106 +1,106 @@
 ,Scan ID,Cytology no.,Diagnosis/Bethesda system,Bethesda actual,Histopathology,Present,Present (Manual),label,fold_0,fold_1,fold_2,fold_3,fold_4,patient_id
-0,TAN001,C-11-22,Malignant,5,Anaplastic carcinoma,1,exist,2,test,train,train,train,test,1
+0,TAN001,C-11-22,Malignant,5,Anaplastic carcinoma,1,exist,2,test,train,train,train,train,1
 1,TAN002,C-20-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,test,train,train,2
-2,TAN003,C-53-23,Benign nodule,1,Simple Nodular Goitre,1,exist,1,test,train,train,test,train,3
+2,TAN003,C-53-23,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,test,train,train,3
 3,TAN004,C-36-23,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,4
-4,TAN005,C-373-20,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,test,test,test,test,5
-5,TAN006,C-187-19,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,test,test,6
-6,TAN007,C-686-19,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,test,train,7
-7,TAN008,C-1002-19,Suspicious for Follicular neoplasim,3,Follicular adenoma,1,exist,0,test,test,train,train,train,8
-8,TAN009,C-071-21,Neoplams hurthle,3,Goitre,1,exist,0,train,train,test,train,test,9
-9,TAN010,C-115-21,Malignancy,5,"Carcinoma, NOS",1,exist,2,test,train,train,train,test,10
+4,TAN005,C-373-20,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,test,test,train,train,5
+5,TAN006,C-187-19,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,6
+6,TAN007,C-686-19,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,7
+7,TAN008,C-1002-19,Suspicious for Follicular neoplasim,3,Follicular adenoma,1,exist,0,test,train,test,train,train,8
+8,TAN009,C-071-21,Neoplams hurthle,3,Goitre,1,exist,0,train,train,train,train,test,9
+9,TAN010,C-115-21,Malignancy,5,"Carcinoma, NOS",1,exist,2,test,train,train,train,train,10
 10,TAN011,C-149-21,Benign thyroid nodule,1,Simple Nodular Goitre,1,exist,1,train,train,test,train,train,11
-11,TAN012,C-019-21,Goitre,1,Goitre,1,exist,1,train,train,test,train,test,12
-12,TAN013,C-065-21,Benign,1,Adenomatous goitre,1,exist,1,train,train,train,train,train,13
-13,TAN014,C-750-20,Goitre,1,Simple Nodular Goitre,1,exist,1,test,test,test,train,test,14
-14,TAN015,C-643-20,Goitre,1,Simple Nodular Goitre,1,exist,1,test,test,test,test,train,15
-15,TAN016,C-081-22,Thyroidetis,1,Thyroid carcinoma,1,exist,1,train,train,train,train,train,16
-16,TAN017,C-007-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,test,train,train,test,train,17
-17,TAN018,C-291-22,ASCUS,2,Follicular adenoma,1,exist,0,train,train,train,train,train,18
-18,TAN019,C-285-22,Follicular neoplasm,3,Follicular adenoma,1,exist,0,test,train,train,test,train,19
-19,TAN020,C-76-23,Goitre,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,20
-20,TAN021,C-388-22,Follicular neoplasm,3,Multinodular goire with cystic changes,1,exist,0,train,train,test,train,train,21
-21,TAN022,C-428-22,Goitre,1,Goitre,1,exist,1,test,train,train,test,train,22
+11,TAN012,C-019-21,Goitre,1,Goitre,1,exist,1,train,train,train,test,train,12
+12,TAN013,C-065-21,Benign,1,Adenomatous goitre,1,exist,1,train,train,train,train,test,13
+13,TAN014,C-750-20,Goitre,1,Simple Nodular Goitre,1,exist,1,test,test,train,train,train,14
+14,TAN015,C-643-20,Goitre,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,train,15
+15,TAN016,C-081-22,Thyroidetis,1,Thyroid carcinoma,1,exist,1,train,train,train,train,test,16
+16,TAN017,C-007-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,test,train,test,test,train,17
+17,TAN018,C-291-22,ASCUS,2,Follicular adenoma,1,exist,0,train,test,train,test,train,18
+18,TAN019,C-285-22,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,train,train,train,19
+19,TAN020,C-76-23,Goitre,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,test,20
+20,TAN021,C-388-22,Follicular neoplasm,3,Multinodular goire with cystic changes,1,exist,0,train,train,train,train,train,21
+21,TAN022,C-428-22,Goitre,1,Goitre,1,exist,1,train,train,train,train,train,22
 22,TAN023,C-440-22,Goitre,1,Goitre,1,exist,1,train,train,train,train,train,23
-23,TAN024,C-454-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,test,24
-24,TAN025,C-102-23,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,test,test,25
+23,TAN024,C-454-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,24
+24,TAN025,C-102-23,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,25
 25,TAN026,C-508-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,test,train,26
-26,TAN027,C-517-22,Lymph node(DLBCL),5,No biopsy,1,exist,2,test,test,train,test,train,27
-27,TAN028,C-527-22,Malignant lesion,5,No biopsy,1,exist,2,train,train,test,train,train,28
-28,TAN029,C-558-22,Follicular neoplasm,3,Simple Nodular Goitre,1,exist,0,test,test,train,train,train,29
-29,TAN030,C-606-22,Granulomatous inflammation,1,Bening nodule,1,exist,1,test,train,train,train,train,30
-30,TAN031,C-614-22,Carcinoma,5,Squamous cell carcinoma; metastatic?,1,exist,2,train,train,train,train,train,31
-31,TAN032,C-849-19,ASCUS,2,Follicular adenoma,1,exist,0,train,test,train,train,train,32
-32,TAN033,C-882-19,Goitre,1,Simple Nodular Goitre,1,exist,1,test,test,test,train,train,33
+26,TAN027,C-517-22,Lymph node(DLBCL),5,No biopsy,1,exist,2,train,train,train,test,test,27
+27,TAN028,C-527-22,Malignant lesion,5,No biopsy,1,exist,2,train,test,train,train,train,28
+28,TAN029,C-558-22,Follicular neoplasm,3,Simple Nodular Goitre,1,exist,0,test,train,train,test,test,29
+29,TAN030,C-606-22,Granulomatous inflammation,1,Bening nodule,1,exist,1,test,train,train,train,test,30
+30,TAN031,C-614-22,Carcinoma,5,Squamous cell carcinoma; metastatic?,1,exist,2,train,test,test,train,train,31
+31,TAN032,C-849-19,ASCUS,2,Follicular adenoma,1,exist,0,train,train,train,train,train,32
+32,TAN033,C-882-19,Goitre,1,Simple Nodular Goitre,1,exist,1,test,train,train,train,train,33
 33,TAN034,C-327-19,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,34
-34,TAN035,C-166-21,Goitre,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,test,35
-35,TAN036,C-243-21,Goitre,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,test,36
-36,TAN037,C-247-20,Malignancy,5,Follicular adenoma,1,exist,2,test,test,train,train,train,37
-37,TAN038,C-131-22,Benign,1,Hyperplastic goitre,0,non exist,1,train,train,train,train,train,38
-38,TAN039,C-150-22,Benign nodule,1,Goitre,0,non exist,1,test,train,train,test,train,39
-39,TAN040,C-151-22,Benign goitre,1,Simple Nodular Goitre,0,non exist,1,train,test,train,train,train,40
-40,TAN041,C-343-22,Benign nodule,1,Simple Nodular Goitre,0,non exist,1,train,test,test,test,test,41
+34,TAN035,C-166-21,Goitre,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,35
+35,TAN036,C-243-21,Goitre,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,train,36
+36,TAN037,C-247-20,Malignancy,5,Follicular adenoma,1,exist,2,test,train,train,train,train,37
+37,TAN038,C-131-22,Benign,1,Hyperplastic goitre,0,non exist,1,train,train,test,test,train,38
+38,TAN039,C-150-22,Benign nodule,1,Goitre,0,non exist,1,test,train,train,train,train,39
+39,TAN040,C-151-22,Benign goitre,1,Simple Nodular Goitre,0,non exist,1,train,train,train,train,train,40
+40,TAN041,C-343-22,Benign nodule,1,Simple Nodular Goitre,0,non exist,1,train,test,train,train,test,41
 41,TAN042,C-620-22,Benign nodule,1,Simple Nodular Goitre,0,non exist,1,train,train,train,train,train,42
-42,TAN043,C-743-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,test,test,train,train,train,43
-43,TAN044,C-772-22,Goitre nodule,1,Goitre,0,non exist,1,train,train,test,test,train,44
-44,TAN045,C-788-22,Benign nodule,1,Goitre,0,non exist,1,test,test,test,train,train,45
-45,TAN046,C-800-22,Granulomatous/Benign,1,Bening nodule,0,non exist,1,test,train,train,train,train,46
-46,TAN047,C-809-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,test,47
-47,TAN048,C-308-22,Benign nodule,1,Simple Nodular Goitre,0,non exist,1,train,train,train,train,test,48
-48,TAN049,C-196-22,Benign,1,Simple Nodular Goitre,0,non exist,1,train,test,train,train,train,49
-49,TAN050,C-486-21,Goitre,1,Simple Nodular Goitre,0,non exist,1,train,train,test,train,test,50
-50,TAN051,C-477-21,benign,1,Simple Nodular Goitre,0,non exist,1,test,train,train,train,train,51
+42,TAN043,C-743-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,test,train,train,test,train,43
+43,TAN044,C-772-22,Goitre nodule,1,Goitre,0,non exist,1,train,train,train,train,test,44
+44,TAN045,C-788-22,Benign nodule,1,Goitre,0,non exist,1,train,test,train,train,train,45
+45,TAN046,C-800-22,Granulomatous/Benign,1,Bening nodule,0,non exist,1,train,train,train,test,test,46
+46,TAN047,C-809-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,test,train,47
+47,TAN048,C-308-22,Benign nodule,1,Simple Nodular Goitre,0,non exist,1,train,test,train,test,test,48
+48,TAN049,C-196-22,Benign,1,Simple Nodular Goitre,0,non exist,1,train,train,train,train,test,49
+49,TAN050,C-486-21,Goitre,1,Simple Nodular Goitre,0,non exist,1,train,train,test,train,train,50
+50,TAN051,C-477-21,benign,1,Simple Nodular Goitre,0,non exist,1,test,train,train,train,test,51
 51,TAN052,C-325-21,Benign,1,Simple Nodular Goitre,0,non exist,1,train,train,train,train,train,52
-52,TAN053,C-205-21,Benign,1,Simple Nodular Goitre,0,non exist,1,test,test,train,train,train,53
+52,TAN053,C-205-21,Benign,1,Simple Nodular Goitre,0,non exist,1,test,test,test,train,train,53
 53,TAN054,C-019-21,Goitre,1,Simple Nodular Goitre,1,exist,1,train,train,test,train,train,54
 54,TAN055,C-175-21,Goitre,1,Simple Nodular Goitre,0,non exist,1,train,test,train,train,train,55
-55,TAN056,C-617-22, Neoplasm,3,Follicular adenoma,1,exist,0,train,test,test,train,train,56
-56,TAN057,C-622-22,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,test,test,train,57
+55,TAN056,C-617-22, Neoplasm,3,Follicular adenoma,1,exist,0,train,train,train,train,train,56
+56,TAN057,C-622-22,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,57
 57,TAN058,C-649-22,Benign,1,Simple Nodular Goitre,0,non exist,1,train,train,test,train,train,58
 58,TAN059,C-613-22,Benign,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,train,59
-59,TAN060,C-620-22, Benign,1,Simple Nodular Goitre,1,exist,1,train,train,test,test,train,60
-60,TAN061,C-341-21,Benign,1,Simple Nodular Goitre,1,exist,1,test,test,train,train,test,61
-61,TAN062,C-007-22,benign,1,Simple Nodular Goitre,0,non exist,1,test,train,test,test,train,62
-62,TAN063,C-309-22,Malignancy,5,Squamous cell carcinoma,1,exist,2,train,train,test,test,train,63
-63,TAN064,C-329-22,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,test,64
-64,TAN065,C-512-22,Malignancy,5,Carcinoma,0,non exist,2,train,train,train,train,test,65
-65,TAN066,C-844-22,Benign,1,Simple Nodular Goitre,1,exist,1,test,train,train,train,train,66
+59,TAN060,C-620-22, Benign,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,train,60
+60,TAN061,C-341-21,Benign,1,Simple Nodular Goitre,1,exist,1,test,test,train,test,train,61
+61,TAN062,C-007-22,benign,1,Simple Nodular Goitre,0,non exist,1,test,train,train,train,test,62
+62,TAN063,C-309-22,Malignancy,5,Squamous cell carcinoma,1,exist,2,train,train,train,train,train,63
+63,TAN064,C-329-22,Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,64
+64,TAN065,C-512-22,Malignancy,5,Carcinoma,0,non exist,2,train,train,test,train,train,65
+65,TAN066,C-844-22,Benign,1,Simple Nodular Goitre,1,exist,1,test,train,train,test,train,66
 66,TAN067,C-842-22,Benign,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,train,67
-67,TAN068,C-826-22,Abscess,1,Metastatic carcinoma,1,exist,1,train,test,test,train,train,68
+67,TAN068,C-826-22,Abscess,1,Metastatic carcinoma,1,exist,1,train,train,train,train,train,68
 68,TAN069,C-827-22, Benign,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,69
-69,TAN070,C-773-22,Mucocele,1,Cystic goitre,1,exist,1,train,test,test,train,train,70
-70,TAN071,C-774-22,Malignact malonoma,5,Melanoma,1,exist,2,train,train,test,train,test,71
-71,TAN072,C-752-22,Inconcusive,0,Simple Nodular Goitre,1,exist,0,train,train,train,test,train,72
-72,TAN073,C-764-22,Goitre,1,Simple Nodular Goitre,1,exist,1,train,train,test,test,train,73
-73,TAN074,C-737-22,suspicious for malignancy,4,Inadequate specimen,0,non exist,2,train,test,test,test,train,74
-74,TAN075,C-720-22,Lipoma,1,Lipoma,1,exist,1,train,train,train,train,train,75
-75,TAN076,C-725-22,Goitre,1,Goitre,1,exist,1,train,train,train,train,test,76
-76,TAN077,C-729-22,Goitre,1,Goitre,1,exist,1,test,train,train,test,test,77
-77,TAN078,C-727-22,Goitre,1,Cystic goitre,1,exist,1,test,train,train,test,train,78
-78,TAN079,C-682-22,Hashimoto thyroiditis,1,Hashimoto thyroiditis,1,exist,1,train,train,train,test,train,79
-79,TAN080,C-719-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,test,train,train,train,test,80
-80,TAN081,C-745-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,test,81
-81,TAN082,C-740-22,Carcinoma,5,Thyroid carcinoma; NOS,1,exist,2,train,train,train,train,train,82
-82,TAN083,C-739-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,test,test,83
-83,TAN084,C-771-22, Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,train,84
+69,TAN070,C-773-22,Mucocele,1,Cystic goitre,1,exist,1,train,train,train,test,test,70
+70,TAN071,C-774-22,Malignact malonoma,5,Melanoma,1,exist,2,train,test,train,test,test,71
+71,TAN072,C-752-22,Inconcusive,0,Simple Nodular Goitre,1,exist,0,train,test,train,train,train,72
+72,TAN073,C-764-22,Goitre,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,test,73
+73,TAN074,C-737-22,suspicious for malignancy,4,Inadequate specimen,0,non exist,2,train,train,test,test,train,74
+74,TAN075,C-720-22,Lipoma,1,Lipoma,1,exist,1,train,train,train,test,train,75
+75,TAN076,C-725-22,Goitre,1,Goitre,1,exist,1,train,train,train,train,train,76
+76,TAN077,C-729-22,Goitre,1,Goitre,1,exist,1,train,train,train,train,train,77
+77,TAN078,C-727-22,Goitre,1,Cystic goitre,1,exist,1,test,train,test,test,train,78
+78,TAN079,C-682-22,Hashimoto thyroiditis,1,Hashimoto thyroiditis,1,exist,1,train,train,train,train,test,79
+79,TAN080,C-719-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,test,train,train,80
+80,TAN081,C-745-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,test,train,train,train,81
+81,TAN082,C-740-22,Carcinoma,5,Thyroid carcinoma; NOS,1,exist,2,train,train,train,train,test,82
+82,TAN083,C-739-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,83
+83,TAN084,C-771-22, Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,84
 84,TAN085,C-762-22,Goitre,1,Simple Nodular Goitre,1,exist,1,test,train,train,train,train,85
-85,TAN086,C-754-22,Goitre,1,Simple Nodular Goitre,1,exist,1,test,train,test,train,train,86
-86,TAN087,C-753-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,test,test,train,train,87
-87,TAN088,C-851-22,Thyroiditis,1,Chronic thyroiditis/Hashimoto,1,exist,1,test,test,train,train,test,88
+85,TAN086,C-754-22,Goitre,1,Simple Nodular Goitre,1,exist,1,test,train,train,train,train,86
+86,TAN087,C-753-22,Benign nodule,1,Simple Nodular Goitre,1,exist,1,train,train,train,train,train,87
+87,TAN088,C-851-22,Thyroiditis,1,Chronic thyroiditis/Hashimoto,1,exist,1,test,train,train,train,train,88
 88,TAN089,C-863-22,Goitre,1,Colloid goitre,1,exist,1,train,train,train,train,train,89
-89,TAN090,C-850-22,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,train,train,train,90
+89,TAN090,C-850-22,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,train,train,test,90
 90,TAN091,C-825-22,Goitre,1,Goitre,1,exist,1,train,train,train,test,train,91
-91,TAN092,C-797-22,Benign nodule,1,Goitre ,1,exist,1,test,train,test,test,train,92
-92,TAN093,C-816-22,Thyroiditis,1,Hashimoto thyroiditis,1,exist,1,train,train,test,test,test,93
-93,TAN094,C-818-22,Benign,1,Follicular adenoma,1,exist,1,train,train,train,train,test,94
-94,TAN095,C-841-22,Benign,1,Goitre with thyroiditis,1,exist,1,train,test,train,train,test,95
-95,TAN096,C-814-22,Goitre,1,Follicular adenoma,1,exist,1,test,train,test,train,test,96
-96,TAN097,C-085-22,Beign,1,Colloid goitre,1,exist,1,train,test,train,train,train,97
-97,TAN098,C-789-22,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,train,test,test,98
+91,TAN092,C-797-22,Benign nodule,1,Goitre ,1,exist,1,train,train,train,train,train,92
+92,TAN093,C-816-22,Thyroiditis,1,Hashimoto thyroiditis,1,exist,1,train,train,train,train,train,93
+93,TAN094,C-818-22,Benign,1,Follicular adenoma,1,exist,1,train,train,train,train,train,94
+94,TAN095,C-841-22,Benign,1,Goitre with thyroiditis,1,exist,1,train,train,test,test,train,95
+95,TAN096,C-814-22,Goitre,1,Follicular adenoma,1,exist,1,train,train,test,train,train,96
+96,TAN097,C-085-22,Beign,1,Colloid goitre,1,exist,1,train,test,test,train,train,97
+97,TAN098,C-789-22,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,test,test,train,98
 98,TAN099,C-089-23,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,train,train,train,99
-99,TAN100,C-071-23,Follicular neoplasm,3,Adenomatous goitre,1,exist,0,test,train,test,train,test,100
-100,TAN101,C-076-23,Carcinoma,5,No biopsy,1,exist,2,train,test,train,train,train,101
-101,TAN102,C-285-23,Goitre/thyroiditis,1,Cystic goitre,1,exist,1,train,test,train,test,train,102
-102,TAN103,CP-01-23,Carcinoma,5,Anaplastic carcinoma,1,exist,2,train,train,train,test,train,103
-103,TAN104,C-302-23,Colloid goitre,1,Colloid goitre,1,exist,1,train,test,train,train,train,104
-104,TAN105,C-329-23,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,train,test,test,105
+99,TAN100,C-071-23,Follicular neoplasm,3,Adenomatous goitre,1,exist,0,test,test,train,train,train,100
+100,TAN101,C-076-23,Carcinoma,5,No biopsy,1,exist,2,train,train,train,train,train,101
+101,TAN102,C-285-23,Goitre/thyroiditis,1,Cystic goitre,1,exist,1,train,train,train,train,train,102
+102,TAN103,CP-01-23,Carcinoma,5,Anaplastic carcinoma,1,exist,2,train,train,train,train,train,103
+103,TAN104,C-302-23,Colloid goitre,1,Colloid goitre,1,exist,1,train,train,train,train,test,104
+104,TAN105,C-329-23,Follicular neoplasm,3,Follicular adenoma,1,exist,0,train,train,test,train,train,105
